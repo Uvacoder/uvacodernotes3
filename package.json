@@ -20,6 +20,9 @@
   "devDependencies": {
     "prettier": "^2.0.5"
   },
+  "engines": {
+    "node": "16.18.1"
+  },
   "prettier": {
     "semi": false,
     "singleQuote": true
